@@ -1,17 +1,9 @@
-# Pizza Sipariş Formu - Tasarımdan Koda I
 
-Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırlık olarak, HTML ve CSS becerilerini geliştirmeniz için tasarlanmıştır. Bu projede, sadece HTML ve CSS kullanarak verilen tasarımı aynen uygulamanız beklenmektedir. Figma tasarım dosyasını referans alarak, sayfanızın görsel yapısını oluşturun.
 
 **Amaç:**
 
 - Verilen Figma tasarımına birebir uyan, mobil ve desktop uyumlu statik bir HTML yapısı oluşturmak.
 - CSS kullanarak formu ve sayfayı şekillendirmek.
-- JavaScript kullanmadan temel bir form yapısı oluşturmak.
-
-**Gereksinimler:**
-
-- Visual Studio Code
-- Node.js ve npm (Node Package Manager) bilgisayarınızda kurulu olmalıdır. Eğer kurulu değilse, [Node.js resmi web sitesinden](https://nodejs.org) LTS versiyonunu indirebilirsiniz.
 
 **Başlangıç:**
 
@@ -76,8 +68,3 @@ Logo proje klasöründe SVG olarak yüklü
 - **Figma Tasarımı:** ([S6 Pizza v2.1 Mobil](https://www.figma.com/design/B6rGWNjWqVyvuB9htLyIMR/S6-Challange-v2.1?node-id=0-1&t=FwsCbqkh8NWchoPX-1))
 - **CSS içerisinde değişken tanımlayıp, yeniden kullanabilmek:** [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
-## Sorularınız mı Var?
-
-Eğer herhangi bir sorunla karşılaşırsanız, lütfen eğitmeninize başvurun.
-
-İyi eğlenceler ve kodlamalar! 🍕
